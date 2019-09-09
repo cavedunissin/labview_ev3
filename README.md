@@ -25,7 +25,7 @@
 
 出版：碁峰資訊 (2014) 
 
-說明：請根據[本教學(https://blog.cavedu.com/2014/05/04/ev3-labviewlabview-module-for-lego-mindstorms-%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BC%89%E4%BA%86/)安裝 NI LabVIEW 2012 與LabVIEW Module for LEGO MINDSTORMS。
+說明：請根據[**本教學**](https://blog.cavedu.com/2014/05/04/ev3-labviewlabview-module-for-lego-mindstorms-%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BC%89%E4%BA%86/)安裝 NI LabVIEW 2012 與LabVIEW Module for LEGO MINDSTORMS。
 
 購買本書相關硬體，歡迎至[**機器人王國商城**](https://www.robotkingdom.com.tw/?s=7697&post_type=product/)購買，如需更多服務請電洽 02-23062900 或來信 [service@robotkingdom.com.tw](mailto:service@robotkingdom.com.tw)
 
